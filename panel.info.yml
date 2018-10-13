@@ -1,0 +1,5 @@
+name: 'Panel'
+type: module
+description: 'Raiblocks control panel'
+core: 8.x
+package: 'Custom'
