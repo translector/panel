@@ -1,0 +1,7 @@
+panel.admin:
+  title: 'Panel de Control'
+  description: 'Ir al panel de control del sitio'
+  parent: account
+  menu_name: account
+  url: internal:/panel
+

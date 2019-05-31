@@ -6,7 +6,7 @@ use Drupal\Core\Controller\ControllerBase;
 use Symfony\Component\HttpFoundation\Request;
 
 /**
- * Defines PanelController class.
+ * Defines HelloController class.
  */
 class PanelController extends ControllerBase {
 
@@ -19,7 +19,7 @@ class PanelController extends ControllerBase {
   public function content() {
     return [
       '#type' => 'markup',
-      '#markup' => $this->t('Hello, World!'),
+      '#markup' => $this->t(''),
     ];
   }
 
